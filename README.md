@@ -7,12 +7,12 @@
  - 아이엠티소프트 윈도우 개발자 (2019.10 ~ 2020.06)
  - 아우토크립트 안드로이드 개발자 (2020.06 ~ pre) (🪖 산업기능요원 복무중 2023.01 ~ 2025.11)
    - 아우토크립트 안드로이드 개발 팀장 (2022.09~2023.11)
-    - [아이맘택시 - 은평구 바우처택시](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.pax)
-    - [아이맘택시 (기사용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.dvr)
-    - [케이콜(기사님용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.kcalldvr)
-    - [이동의자유맵](https://play.google.com/store/apps/details?id=com.autocrypt.mi.bf2u.barrierfree)
-    - [버스닷(기사님용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.busdot.dvr&hl=ko&gl=US)
-    - [충전국밥](https://play.google.com/store/apps/details?id=com.autocrypt.mi.evservice) 
+     - [아이맘택시 - 은평구 바우처택시](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.pax)
+     - [아이맘택시 (기사용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.dvr)
+     - [케이콜(기사님용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.kcalldvr)
+     - [이동의자유맵](https://play.google.com/store/apps/details?id=com.autocrypt.mi.bf2u.barrierfree)
+     - [버스닷(기사님용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.busdot.dvr&hl=ko&gl=US)
+     - [충전국밥](https://play.google.com/store/apps/details?id=com.autocrypt.mi.evservice) 
 
 # 🔧 Tech
 - Android
