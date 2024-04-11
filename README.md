@@ -6,7 +6,6 @@
 # 💼 경력
  - 아이엠티소프트 윈도우 개발자 (2019.10 ~ 2020.06)
  - 아우토크립트 안드로이드 개발자 (2020.06 ~ pre) (🪖 산업기능요원 복무중 2023.01 ~ 2025.11)
-   - 아우토크립트 안드로이드 개발 팀장 (2022.09~2023.11)
      - [아이맘택시 - 은평구 바우처택시](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.pax)
      - [아이맘택시 (기사용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.dvr)
      - [케이콜(기사님용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.kcalldvr)
