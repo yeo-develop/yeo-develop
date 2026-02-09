@@ -14,7 +14,7 @@
   - React Native, Vue.js, React.js
  - Android
     - Main
-       - Kotlin, MVVM, Coroutine + Flow, Retrofit, Hilt
+       - Kotlin, MVVM, Coroutine + Flow, Retrofit, Hilt, Jetpack Compose
     - Sub
        - Java, RxJava2, LiveData, View/DataBinding + CustomView + NavigationComponent
     - Firebase
