@@ -11,7 +11,7 @@
   
 # 🔧 Tech
 - Mobile, FrontEnd
-  - React Native, Vue.js + Quasar
+  - React Native, Vue.js, React.js
  - Android
     - Main
        - Kotlin, MVVM, Coroutine + Flow, Retrofit, Hilt
