@@ -7,8 +7,8 @@ Kotlin, Jetpack Compose, React Native, Vue.js를 중심으로 제품을 만듭�
 
 <br />
 
-![GitHub stats](https://github-readme-stats-two-lake-8v85pl9y8i.vercel.app/api?username=yeo-develop&show_icons=true&theme=radical&include_all_commits=true&hide_border=true)
-[![Top Langs](https://github-readme-stats-two-lake-8v85pl9y8i.vercel.app/api/top-langs/?username=yeo-develop&layout=compact&theme=radical&hide_border=true)](https://github.com/yeo-develop)
+![GitHub stats](https://github-readme-stats-two-lake-8v85pl9y8i.vercel.app/api?username=yeo-develop&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&v=202611181958)
+[![Top Langs](https://github-readme-stats-two-lake-8v85pl9y8i.vercel.app/api/top-langs/?username=yeo-develop&layout=compact&theme=radical&hide_border=true&v=202611181958)](https://github.com/yeo-develop)
 
 </div>
 
